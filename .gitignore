@@ -30,4 +30,10 @@
 /web-app/plugins
 
 # "temporary" build files
-/target
+#/target
+build/
+.gradle/
+
+# backup files from Unix-style text editors
+*~
+\#*\#
